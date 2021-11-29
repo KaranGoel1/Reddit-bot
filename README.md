@@ -43,6 +43,36 @@ made this repo: 2 points
 
 Upvote/downvote submissions and comments using textblob: 4 points
 
+Final upvotes output:
+```
+title of submission =  Fauci pushes wet market hypothesis on COVID-19 origins
+submission_text =  Fauci pushes wet market hypothesis on COVID-19 origins 
+len(all_comments) =  2
+upvoted a comment. number:  604
+title of submission =  Liberals and leftists are not the same.
+submission_text =  Liberals and leftists are not the same. 
+len(all_comments) =  4
+upvoted a comment. number:  605
+```
+
+(605 is the number of actions the program did i.e. it upvoted/downvoted 605 submissions/comments put together)
+
 Repost submissions from another subreddit: 2 points
+
+Last lines of my submissions output: 
+```
+made url submission. number:  199
+made url submission. number:  200
+made url submission. number:  201
+made url submission. number:  202
+made url submission. number:  203
+made url submission. number:  204
+made url submission. number:  205
+made url submission. number:  206
+made url submission. number:  207
+made url submission. number:  208
+```
+
+(program was making both text and url submissions, thus url is specified in these cases. 208 is the number of submissions overall)
 
 **Total optional points: 10 or 12**
