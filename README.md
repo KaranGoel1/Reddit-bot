@@ -23,7 +23,7 @@ valid_comments= 995
 NOTE: the number valid_comments is what will be used to determine your extra credit
 ```
 
-## My score: 32/30
+## My score: 30/30 or 32/30
 
 ### Required:
 
@@ -45,4 +45,4 @@ Upvote/downvote submissions and comments using textblob: 4 points
 
 Repost submissions from another subreddit: 2 points
 
-**Total optional points: 12**
+**Total optional points: 10 or 12**
