@@ -9,6 +9,18 @@ My favourite thread that the bot is a part of is linked [here](https://old.reddi
 ## ```bot_counter.py``` output
 
 ```
+$ python3 bot_counter.py --username=Botiana123
+Version 7.4.0 of praw is outdated. Version 7.5.0 was released Sunday November 14, 2021.
+len(comments)= 1000
+len(top_level_comments)= 132
+len(replies)= 868
+len(valid_top_level_comments)= 132
+len(not_self_replies)= 863
+len(valid_replies)= 863
+========================================
+valid_comments= 995
+========================================
+NOTE: the number valid_comments is what will be used to determine your extra credit
 ```
 
 ## My score: 32/30
