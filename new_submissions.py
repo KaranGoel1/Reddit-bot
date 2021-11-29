@@ -20,7 +20,7 @@ print('len(subs)=', len(subs))
 bottown_sub = reddit.subreddit('BotTown2')
 counter = 0
 
-for sub in subs[]:
+for sub in subs:
     if sub['body'] != '':
         print(sub['body'][:10])
         bottown_sub.submit(title=sub['title'], selftext=sub['body'])
